@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#a2e665</color>
+    <color name="light_blue">#E3F2FD</color> <!-- Sfondo generale -->
+    <color name="blue_dark">#0D47A1</color>  <!-- Testo principale -->
+    <color name="orange">#FF9800</color>     <!-- Pulsanti e dettagli -->
+    <color name="gray_light">#F5F5F5</color> <!-- Sfondo immagine -->
+    <color name="gray_dark">#757575</color>  <!-- Testo descrizioni e sottotitoli -->
+</resources>
